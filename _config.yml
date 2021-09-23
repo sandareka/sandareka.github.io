@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sandareka Wickramanayake"
   avatar           : "Photo.jpg"
-  bio              : "A PhD candidate at National University of Singapore"
-  location         : "Singapore"
+  bio              : "PhD candidate at National University of Singapore"
+  location         : # "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=6mlKqLgAAAAJ"
-  email            : "sandarekaw@u.nus.edu or sandarekaw@mrt.ac.lk"
-  researchgate     :  "https://www.researchgate.net/profile/Sandareka-Wickramanayake"
+  email            : "sandarekaw@u.nus.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Sandareka-Wickramanayake"
   uri              :
   bitbucket        :
   codepen          :
