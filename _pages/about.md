@@ -21,3 +21,15 @@ I am interested in designing accurate and interpretable Deep Neural Networks (DN
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “FLEX: Faithful Linguistic Explanations for Neural Net based Model Decisions”, In **AAAI, 2019**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More Details ...](https://sandareka.github.io/publications/)
+
+## Latest News
+
+* 17th Sep 2021 - _I will be giving an invited talk on "Research and Higher Education" for the level one and two computer science students of SLITT Sri Lanka._
+* 20th July 2021 - _I will be presenting our paper, “Comprehensible Convolutional Neural Networks via Guided Concept Learning”, at IJCNN._
+* 25th June 2021 - _Our paper titled "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" accepted for ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI._
+* 10th April 2021 - _Our paper titled “Comprehensible Convolutional Neural Networks via Guided Concept Learning” accepted for IJCNN 2021._
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More Details ...](https://sandareka.github.io/publications/)
+
+
