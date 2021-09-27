@@ -20,4 +20,4 @@ I am interested in designing accurate and interpretable Deep Neural Networks (DN
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In XAI Workshop - ICML, 2021
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “FLEX: Faithful Linguistic Explanations for Neural Net based Model Decisions”, In AAAI, 2019
 
-<p style='text-align: right;'> <a href="https://sandareka.github.io/publications/">More details...</a></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [More details...](https://sandareka.github.io/publications/)
