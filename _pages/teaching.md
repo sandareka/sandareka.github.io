@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 ### National University of Singapore, Singapore - Graduate Teaching Assistance
 
 * 2019/2020 Sem 2 - [CS5260 - Neural Networks and Deep Learning II](https://web.bii.a-star.edu.sg/~leehk/cs5260.html) by [Prof. Hwee Kuan Lee](https://web.bii.a-star.edu.sg/~leehk/team.html)
