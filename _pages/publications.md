@@ -10,7 +10,12 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) - [Presentation](https://www.youtube.com/watch?v=vK4vti_pUMg&t=40s) - [Code](https://www.github.com/sandareka/CCNN)
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In **XAI Workshop - ICML, 2021**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4100) - [Presentation](https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2106.13164) - [Presentation](https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “FLEX: Faithful Linguistic Explanations for Neural Net based Model Decisions”, In **AAAI, 2019**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) - [Poster](/images/Poster-22Jan.pdf) - [Code](https://www.github.com/sandareka/FLEX)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4100) - [Poster](/images/Poster-22Jan.pdf) - [Code](https://www.github.com/sandareka/FLEX) 
+
+* **Sandareka Wickramanayake**, HMN Dilum Bandara, "Fuel consumption prediction of fleet vehicles using machine learning: A comparative study," In **MERCon 2016**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/abstract/document/7480121)
+
