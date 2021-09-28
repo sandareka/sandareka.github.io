@@ -19,3 +19,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/abstract/document/7480121)
 
+* Sanka Darshana, Dileepa Fernando, Sadari Jayawardena, **Sandareka Wickramanayake**, Chathura DeSilva, "Efficient PERCLOS and gaze measurement methodologies to estimate driver attention in real time," In **ISMS 2014**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/abstract/document/7280923)
+
+* KUGS Darshana, MDY Fernando, SS Jayawadena, **SKK Wickramanayake**,  "Riyadisi—intelligent driver monitoring system," In **ICTer 2013**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/abstract/document/6761200)
+
