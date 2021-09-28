@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Hi, I am Sandareka.
 
-I am a Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). I earned the Bachelor of the Science of Engineering (Hons) in [Computer Science and Engineering](http://www.cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/) in 2014.
+I am a Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). Also, I am lecturer at [Department of Computer Science and Engineering](http://www.cse.mrt.ac.lk/), [University of Moratuwa](https://uom.lk/) who is currently on study leave . I earned the BSc (Hons) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/) in 2014.
 
 I am interested in designing accurate and interpretable Deep Neural Networks (DNNs). In particular, I am interested in explaining the actual reasons behind DNN decisions in natural language. My focus is developing methods to explain already-trained DNNs or developing inherently interpretable DNNs, in the domain of computer vision. I believe that improved understanding and performance will bolster public confidence in Artificial Intelligence (AI), leading to the increased adaption of AI systems in the real world.
 
@@ -18,24 +18,24 @@ I am interested in designing accurate and interpretable Deep Neural Networks (DN
 
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Comprehensible Convolutional Neural Networks via Guided Concept Learning,” In **IJCNN, 2021**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) | [Presentation](https://www.youtube.com/watch?v=vK4vti_pUMg&t=40s) | [Code](https://www.github.com/sandareka/CCNN)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) - [Presentation](https://www.youtube.com/watch?v=vK4vti_pUMg&t=40s) - [Code](https://www.github.com/sandareka/CCNN)
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In **XAI Workshop - ICML, 2021**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4100) | [Presentation](https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4100) - [Presentation](https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “FLEX: Faithful Linguistic Explanations for Neural Net based Model Decisions”, In **AAAI, 2019**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) | [Poster](/images/Poster-22Jan.pdf) | [Code](https://www.github.com/sandareka/FLEX)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) - [Poster](/images/Poster-22Jan.pdf) - [Code](https://www.github.com/sandareka/FLEX)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More Publications ...](https://sandareka.github.io/publications/)
 
-## Latest News
+[//]: # (## Latest News)
 
-* 17th Sep 2021 - _I will be giving an invited talk on "Research and Higher Education" for the level one and two computer science students of SLIIT Sri Lanka._
-* 20th July 2021 - _I will be presenting our paper, “Comprehensible Convolutional Neural Networks via Guided Concept Learning”, at IJCNN._
-* 25th June 2021 - _Our paper titled "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" accepted for ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI._
-* 10th April 2021 - _Our paper titled “Comprehensible Convolutional Neural Networks via Guided Concept Learning” accepted for IJCNN 2021._
+[//]: # (* 17th Sep 2021 - _I will be giving an invited talk on "Research and Higher Education" for the level one and two computer science students of SLIIT Sri Lanka._)
+[//]: # (* 20th July 2021 - _I will be presenting our paper, “Comprehensible Convolutional Neural Networks via Guided Concept Learning”, at IJCNN._
+[//]: # (* 25th June 2021 - _Our paper titled "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" accepted for ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI._)
+[//]: # (* 10th April 2021 - _Our paper titled “Comprehensible Convolutional Neural Networks via Guided Concept Learning” accepted for IJCNN 2021._)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More News ...](https://sandareka.github.io/publications/)
+[//]: # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More News ...](https://sandareka.github.io/publications/)
 
 
