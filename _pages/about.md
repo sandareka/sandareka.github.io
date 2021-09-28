@@ -26,7 +26,6 @@ I am interested in designing accurate and interpretable Deep Neural Networks (DN
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) | [Poster](/images/Poster-22Jan.pdf) | [Code](https://www.github.com/sandareka/FLEX)
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More Publications ...](https://sandareka.github.io/publications/)
 
 ## Latest News
