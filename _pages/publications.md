@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
 
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Comprehensible Convolutional Neural Networks via Guided Concept Learning,” In **IJCNN, 2021**
 
