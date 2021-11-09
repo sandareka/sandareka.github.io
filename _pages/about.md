@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Hi, I am Sandareka.
 
-I am a Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). Also, I am lecturer at [Department of Computer Science and Engineering](http://www.cse.mrt.ac.lk/), [University of Moratuwa](https://uom.lk/) who is currently on study leave . I earned the BSc (Hons) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/) in 2014.
+I am a Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). Also, I am a lecturer at [Department of Computer Science and Engineering](http://www.cse.mrt.ac.lk/), [University of Moratuwa](https://uom.lk/) who is currently on study leave . I earned the BSc (Hons) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/) in 2014.
 
 I am interested in designing accurate and interpretable Deep Neural Networks (DNNs). In particular, I am interested in explaining the actual reasons behind DNN decisions in natural language. My focus is developing methods to explain already-trained DNNs or developing inherently interpretable DNNs, in the domain of computer vision. I believe that improved understanding and performance will bolster public confidence in Artificial Intelligence (AI), leading to the increased adaption of AI systems in the real world.
 
