@@ -16,16 +16,15 @@ author_profile: true
 ### Conferences and Workshops
 * [eXplainable AI approaches for debugging and diagnosis](https://xai4debugging.github.io/) @ NeurIPS 2021 - Recognized as one of top five outstanding reviwers
 * [WiML Workshop @ NeurIPS 2019](https://wimlworkshop.org/sh_events/wiml-workshop-2020/)
-* [ICIAFS - 2021](https://spsr.sltc.ac.lk/events/iciafs-2021/)
 * [MerCon](https://mercon.uom.lk/) - 2019, 2018, 2017
 
 ## Sub Reviewer
 
 * [ICCAD - 2021](https://iccad.com/index.php)
 
-## Mentor 
+## Volunteer 
 
-* [WiML Workshop - NeurIPS 2020](https://wimlworkshop.org/sh_events/wiml-workshop-2020/)
+* [WiML Workshop - NeurIPS 2021](https://sites.google.com/view/wiml2021/committee?authuser=0/) (Super-volunteer), [WiML Workshop - NeurIPS 2020](https://wimlworkshop.org/sh_events/wiml-workshop-2020/) (Mentor)
 
 ## Organizing Committee Member
 
