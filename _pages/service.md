@@ -14,7 +14,7 @@ author_profile: true
 * [Transactions on Systems Man and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 
 ### Conferences and Workshops
-* [eXplainable AI approaches for debugging and diagnosis](https://xai4debugging.github.io/) @ NeurIPS 2021 - Recognized as one of top five outstanding reviwers
+* [eXplainable AI approaches for debugging and diagnosis](https://xai4debugging.github.io/) @ NeurIPS 2021 - <span style="color:blue"> Recognized as one of top five outstanding reviwers </span>.
 * [WiML Workshop @ NeurIPS 2019](https://wimlworkshop.org/sh_events/wiml-workshop-2020/)
 * [MerCon](https://mercon.uom.lk/) - 2019, 2018, 2017
 
