@@ -17,6 +17,7 @@ I am interested in designing accurate and interpretable Deep Neural Networks (DN
 ## Selected Publications
 
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://papers.nips.cc/paper/2021/hash/af3b6a54e9e9338abc54258e3406e485-Abstract.html) - [Presentation](https://recorder-v3.slideslive.com/#/share?share=52116&s=f0a2aefc-b9e7-4a1b-94f7-89d01c0021b6) - [Code](https://www.github.com/sandareka/BRACE)
 	
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Comprehensible Convolutional Neural Networks via Guided Concept Learning,” In **IJCNN, 2021**
 
