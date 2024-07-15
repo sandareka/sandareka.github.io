@@ -35,15 +35,15 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://papers.academic-conferences.org/index.php/ecel/article/view/1806)
 
-*	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, S. Wickramanayake, D. Meedeniya, " BehaveFormer: A Framework with Spatio-Temporal Dual Attention Transformers for IMU enhanced Keystroke Dynamics", In **IJCB 2023**.
+*	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, **S. Wickramanayake**, D. Meedeniya, " BehaveFormer: A Framework with Spatio-Temporal Dual Attention Transformers for IMU enhanced Keystroke Dynamics", In **IJCB 2023**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10448997)- [Code](https://github.com/DilshanSenarath/BehaveFormer)
 
-*	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, S. Wickramanayake, D. Meedeniya, "Re-evaluating Keystroke Dynamics for Continuous Authentication", In **ICARC, 2023**.
+*	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, **S. Wickramanayake**, D. Meedeniya, "Re-evaluating Keystroke Dynamics for Continuous Authentication", In **ICARC, 2023**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10145743)- [Code](https://github.com/DilshanSenarath/BehaveFormer)
 
-*	V. Nanayakkara, B. Karunarathne, M. Ranasinghe, S. Perera., G. Amarasinghe, S. Wickramanayake, S. Ahangama, K. Mahadewa, C. Hettiarachchi and H. Yaggahavita. “open.uom.lk: A Free Online Knowledge Sharing Platform”, In **ECEL 2022**.
+*	V. Nanayakkara, B. Karunarathne, M. Ranasinghe, S. Perera., G. Amarasinghe, **S. Wickramanayake**, S. Ahangama, K. Mahadewa, C. Hettiarachchi and H. Yaggahavita. “open.uom.lk: A Free Online Knowledge Sharing Platform”, In **ECEL 2022**.
 
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
 	
