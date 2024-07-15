@@ -9,9 +9,11 @@ redirect_from:
 ---
 # Hi, I am Sandareka.
 
-I am a lecturer at [Department of Computer Science and Engineering](http://www.cse.mrt.ac.lk/), [University of Moratuwa](https://uom.lk/). I obtained my Ph.D. from the National University of Singapore (NUS), Singapore in 2022 where I was supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). I earned the BSc (Hons) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/) in 2014.
+I am a Senior Lecturer at [Department of Computer Science and Engineering](http://www.cse.mrt.ac.lk/), [University of Moratuwa](https://uom.lk/). I obtained my Ph.D. from the National University of Singapore (NUS), Singapore in 2022 where I was supervised by Professor [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Professor [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). I earned the BSc (Hons) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/) in 2014.
 
-My research interests lie in the area of Interpretable Machine Learning, particularly designing accurate and interpretable Deep Neural Networks (DNNs). In particular, I am interested in explaining the actual reasons behind DNN decisions in natural language. My focus is developing methods to explain already-trained DNNs as well as developing inherently interpretable DNNs. I believe that improved understanding and performance will bolster public confidence in Artificial Intelligence (AI), leading to the increased adaption of AI systems in the real world.
+My research interests lie in the area of Interpretable Machine Learning, particularly designing accurate and interpretable Deep Neural Networks (DNNs). In particular, I am interested in explaining the actual reasons behind DNN decisions in way that is easily understandable to human. My focus is developing methods to explain already-trained DNNs as well as developing inherently interpretable DNNs. I believe that improved understanding and performance will bolster public confidence in Artificial Intelligence (AI), leading to the increased adaption of AI systems in the real world.
+
+In addition, I work in developing state-of-the-art DNN-based model for real-world applications such as human activity recognition, automatic program repair, bio-metric authentication, scam detection and sign language recognition.
 
 
 ## Selected Publications
