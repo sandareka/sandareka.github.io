@@ -35,8 +35,6 @@ In addition, I work in developing state-of-the-art DNN-based model for real-worl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3643991.3644878)- [Code](https://github.com/EmInReLab/bugsPHP)
 
 *	PN Deelaka, DY De Silva, **S. Wickramanayake**, D. Meedeniya, S. Rasnayaka “TEZARNet: TEmporal Zero-Shot Activity Recognition Network”, In **ICoNIP, 2023**.
-*	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_34)- [Code](https://github.com/nipdep/TEZARNet)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Click Here for More Publications ...](https://sandareka.github.io/publications/)
 
