@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### Book Chapters
+*      **Sandareka Wickramanayake**, Sanka Rasnayaka, Madhushika Gamage, Dulani Meedeniya, Indika Perera, “Explainable Artificial Intelligence for Enhanced Living Environments: A Study on User Perspective” in ADCOM Volume 134 - Internet of Things: Architectures for Enhanced Living Environments, Advances in Computers, 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper]([https://papers.nips.cc/paper/2021/hash/af3b6a54e9e9338abc54258e3406e485-Abstract.html](https://www.sciencedirect.com/science/article/abs/pii/S0065245823000773))
+  
+### Conference Papers
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://papers.nips.cc/paper/2021/hash/af3b6a54e9e9338abc54258e3406e485-Abstract.html) - [Presentation](https://recorder-v3.slideslive.com/#/share?share=52116&s=f0a2aefc-b9e7-4a1b-94f7-89d01c0021b6) - [Code](https://www.github.com/sandareka/BRACE)
