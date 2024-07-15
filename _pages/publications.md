@@ -21,7 +21,7 @@ author_profile: true
 ### Conference Papers
 *	KD Pramod, WT De Silva, WU Thabrew, R Shariffdeen, **S Wickramanayake**. “BUGSPHP: A dataset for Automated Program Repair in PHP”. In **MSE, 2024**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3643991.3644878)- [Code](https://github.com/nganntk/BehaveFormer](https://github.com/EmInReLab/bugsPHP)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3643991.3644878)- [Code](https://github.com/EmInReLab/bugsPHP)
 
 *	K Charuka, **S Wickramanayake**, TD Ambegoda, P Madhushan, D Wijesooriya. “Sign Language Recognition for Low Resource Languages Using Few Shot Learning”, In **ICoNIP, 2023**.
 
