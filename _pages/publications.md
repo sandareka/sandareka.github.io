@@ -5,10 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 ### Book Chapters
-*	**Sandareka Wickramanayake**, Sanka Rasnayaka, Madhushika Gamage, Dulani Meedeniya, Indika Perera, “Explainable Artificial Intelligence for Enhanced Living Environments: A Study on User Perspective” in ADCOM Volume 134 - Internet of Things: Architectures for Enhanced Living Environments, Advances in Computers, 2023.
+*	**Sandareka Wickramanayake**, Sanka Rasnayaka, Madhushika Gamage, Dulani Meedeniya, Indika Perera, “Explainable Artificial Intelligence for Enhanced Living Environments: A Study on User Perspective” in ADCOM Volume 134 - Internet of Things: Architectures for Enhanced Living Environments, **Advances in Computer**, 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0065245823000773)
-  
+
+### Journal Papers
+*	Maneesha Gunathilaka, **Sandareka Wickramanayake**, Dilum Bandara, , “DeFiTrust: A transformer-based framework for scam DeFi token detection using event logs and sentiment analysis” in **ESWA**, 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007796) - [Code](https://github.com/mdgunathilaka/DeFi_Trust)
+
+*	Kim Nguyen, Sanka Rasnayaka, **Sandareka Wickramanayake**, Dulani Meedeniya, Sanjay Saha, Terence Sim, "Spatio-Temporal Dual-Attention Transformer for Time-Series Behavioral Biometrics", IEEE Transactions on Biometrics, Behavior, and Identity Science(**T-BIOM**) , 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10510407)- [Code](https://github.com/nganntk/BehaveFormer)
+
 ### Conference Papers
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
 	
