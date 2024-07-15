@@ -21,17 +21,29 @@ author_profile: true
 ### Conference Papers
 *	KD Pramod, WT De Silva, WU Thabrew, R Shariffdeen, **S Wickramanayake**. “BUGSPHP: A dataset for Automated Program Repair in PHP”. In **MSE, 2024**.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3643991.3644878)- [Code]([https://github.com/nganntk/BehaveFormer](https://github.com/EmInReLab/bugsPHP))
+
 *	K Charuka, **S Wickramanayake**, TD Ambegoda, P Madhushan, D Wijesooriya. “Sign Language Recognition for Low Resource Languages Using Few Shot Learning”, In **ICoNIP, 2023**.
 
-*	PN Deelaka, DY De Silva, S. Wickramanayake, D. Meedeniya, S. Rasnayaka “TEZARNet: TEmporal Zero-Shot Activity Recognition Network”, In **ICoNIP, 2023**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_16)
+
+*	PN Deelaka, DY De Silva, **S. Wickramanayake**, D. Meedeniya, S. Rasnayaka “TEZARNet: TEmporal Zero-Shot Activity Recognition Network”, In **ICoNIP, 2023**.
+*	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_34)- [Code](https://github.com/nipdep/TEZARNet)
 
 *	B Karunarathne, V Nanayakkara, E Ranasinghe, M Ranasinghe, S Ahangama, **S Wickramanayake**, C Hettiarachchi.”Analysis of the factors affecting successful completion of asynchronous online learning programs”. In **ECEL, 2023**.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://papers.academic-conferences.org/index.php/ecel/article/view/1806)
+
 *	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, S. Wickramanayake, D. Meedeniya, " BehaveFormer: A Framework with Spatio-Temporal Dual Attention Transformers for IMU enhanced Keystroke Dynamics", In **IJCB 2023**.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10448997)- [Code](https://github.com/DilshanSenarath/BehaveFormer)
 
 *	D. Senarath, S. Tharinda, M. Vishvajith, S. Rasnayaka, S. Wickramanayake, D. Meedeniya, "Re-evaluating Keystroke Dynamics for Continuous Authentication", In **ICARC, 2023**.
 
-•	V. Nanayakkara, B. Karunarathne, M. Ranasinghe, S. Perera., G. Amarasinghe, S. Wickramanayake, S. Ahangama, K. Mahadewa, C. Hettiarachchi and H. Yaggahavita. “open.uom.lk: A Free Online Knowledge Sharing Platform”, In **ECEL 2022**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10145743)- [Code](https://github.com/DilshanSenarath/BehaveFormer)
+
+*	V. Nanayakkara, B. Karunarathne, M. Ranasinghe, S. Perera., G. Amarasinghe, S. Wickramanayake, S. Ahangama, K. Mahadewa, C. Hettiarachchi and H. Yaggahavita. “open.uom.lk: A Free Online Knowledge Sharing Platform”, In **ECEL 2022**.
 
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Explanation-based Data Augmentation for Image Classification,” In **NeurIPS, 2021**
 	
