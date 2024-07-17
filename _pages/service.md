@@ -28,8 +28,8 @@ author_profile: true
 
 ## Volunteer 
 
-* [MERCon 2024] (https://mercon.uom.lk/) - Chair - Data Sicence and Engineering Track
-* [Workshop on Trustworthy Machine Learning, MERCon 2022] (https://trustworthyml-workshop.github.io/) - Chair
+* [MERCon 2024](https://mercon.uom.lk/) - Chair - Data Sicence and Engineering Track
+* [Workshop on Trustworthy Machine Learning, MERCon 2022](https://trustworthyml-workshop.github.io/) - Chair
 * [WiML Workshop - NeurIPS 2022](https://sites.google.com/view/wiml2022/) - Area Chair
 * [WiML UN-Workshop - ICML 2022](https://icml.cc/virtual/2022/affinity-workshop/13481) - Super-volunteer
 * [WiML Workshop - NeurIPS 2021](https://sites.google.com/view/wiml2021/committee?authuser=0/) - Super-volunteer
