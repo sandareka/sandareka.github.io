@@ -84,7 +84,7 @@ author:
   avatar           : "Photo.jpg"
   bio              : "Senior Lecturer at the Universtiy of Moratuwa, Sri Lanka."
   location         : # "Sri Lanka"
-  employer         : "University of Moratuwa"
+  employer         : # "University of Moratuwa"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=6mlKqLgAAAAJ"
   email            : "sandarekaw@u.nus.edu"
