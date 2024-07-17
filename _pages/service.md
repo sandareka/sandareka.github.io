@@ -8,7 +8,6 @@ author_profile: true
 ## Reviewer
 
 ### Journals
-
 * [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) - 2021, 2022, 2023, 2024
 * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci) - 2023
 * [Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) - 2021
@@ -21,10 +20,6 @@ author_profile: true
 * [eXplainable AI approaches for debugging and diagnosis @ NeurIPS 2021](https://xai4debugging.github.io/) - <span style="color:blue"> Recognized as one of top five outstanding reviwers </span>.
 * [WiML Workshop @ NeurIPS](https://wimlworkshop.org/sh_events/wiml-workshop-2020/) - 2020, 2019
 * [MerCon](https://mercon.uom.lk/) - 2022, 2019, 2018, 2017
-
-## Sub Reviewer
-
-* [ICCAD - 2021](https://iccad.com/index.php)
 
 ## Volunteer 
 
