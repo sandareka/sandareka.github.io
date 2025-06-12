@@ -9,6 +9,8 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0065245823000773)
 
+* Pasadi Hiranya Panawenna, Kasum G Heththihewa, **Sandareka Wickramanayake**, Dulani Meedeniya, “Explainable AI for Building Trustworthy Transformer-Based Abstractive Summarization Models” in Explainable Artificial Intelligence for Trustworthy Decisions in Smart Applications, **Springer Nature**, 2025.
+
 ### Journal Papers
 *	Maneesha Gunathilaka, **Sandareka Wickramanayake**, Dilum Bandara, , “DeFiTrust: A transformer-based framework for scam DeFi token detection using event logs and sentiment analysis” in **ESWA, 2024**.
 
@@ -19,6 +21,12 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10510407)- [Code](https://github.com/nganntk/BehaveFormer)
 
 ### Conference Papers
+*	Meenambika Chandirakumar, Thanushanth Kanagarajah, Nethurshika Kalanantharasan, **Sandareka Wickramanayake**, Dulani Meedeniya, “Human Activity Recognition Using Spatio-Temporal Dual Attention with Cross-Sensor Attention”. In **IJCNN, 2025**.
+
+*	Chathushka Karunathilaka, **Snadareka Wickramanayake**. “Empirical Evaluation of Deep Learning Models for Long-Term Solar Power Generation Forecasting”. In **ICARC 2025**.
+
+*	Pasadi Hiranya Panawenna, **Sandareka Wickramanayake**. “Understanding Omitted Facts in Transformer-based Abstractive Summarization”. In **MERCon 2024**.
+
 *	KD Pramod, WT De Silva, WU Thabrew, R Shariffdeen, **S Wickramanayake**. “BUGSPHP: A dataset for Automated Program Repair in PHP”. In **MSE, 2024**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3643991.3644878)- [Code](https://github.com/EmInReLab/bugsPHP)
