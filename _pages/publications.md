@@ -64,9 +64,8 @@ author_profile: true
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “Comprehensible Convolutional Neural Networks via Guided Concept Learning,” In **IJCNN, 2021**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/9534269) - [Presentation](https://www.youtube.com/watch?v=vK4vti_pUMg&t=40s) - [Code](https://www.github.com/sandareka/CCNN)
-*	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In **XAI Workshop - ICML, 2021**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2106.13164) - [Presentation](https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
+(https://www.youtube.com/watch?v=KI7qsGNc9sM&t=1s)
 *	**Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee, “FLEX: Faithful Linguistic Explanations for Neural Net based Model Decisions”, In **AAAI, 2019**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4100) - [Poster](/images/Poster-22Jan.pdf) - [Code](https://www.github.com/sandareka/FLEX) 
@@ -89,6 +88,7 @@ author_profile: true
 * N Lamahewage, N Cooray, R Shariffdeen, S Wickramanayake, ND Silva. "SCHOLIA-An XAI Framework for APR" In **6th International Workshop on Automated Program Repair, ICSE , 2025**.
 
 * **Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In **Explainable Artificial Intelligence Workshop - ICML, 2021**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2106.13164) - [Presentation]
 
 ### Preprints
 * L Akmeemana, C Attanayake, H Faiz, **S Wickramanayake**, “GAL-MAD: Towards Explainable Anomaly Detection in Microservice Applications Using Graph Attention Networks”. arXiv preprint arXiv:2504.00058, 2025.
