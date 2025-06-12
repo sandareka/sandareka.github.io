@@ -25,7 +25,11 @@ author_profile: true
 
 *	Chathushka Karunathilaka, **Snadareka Wickramanayake**. “Empirical Evaluation of Deep Learning Models for Long-Term Solar Power Generation Forecasting”. In **ICARC 2025**.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10963278)
+
 *	Pasadi Hiranya Panawenna, **Sandareka Wickramanayake**. “Understanding Omitted Facts in Transformer-based Abstractive Summarization”. In **MERCon 2024**.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/document/10688628)
 
 *	KD Pramod, WT De Silva, WU Thabrew, R Shariffdeen, **S Wickramanayake**. “BUGSPHP: A dataset for Automated Program Repair in PHP”. In **MSE, 2024**.
 
@@ -78,4 +82,18 @@ author_profile: true
 * KUGS Darshana, MDY Fernando, SS Jayawadena, **SKK Wickramanayake**,  "Riyadisi—intelligent driver monitoring system," In **ICTer 2013**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Paper](https://ieeexplore.ieee.org/abstract/document/6761200)
+
+### Workshop Papers
+* J Senevirathna, A Vininda, P Sandaruwan, Ridwan Shariffdeen, **Sandareka Wickramanayake**, Nisansa De Silva. "FusionRepair: Iterative Multi-Line APR via Fusion", In **6th International Workshop on Automated Program Repair, ICSE , 2025**.
+
+* N Lamahewage, N Cooray, R Shariffdeen, S Wickramanayake, ND Silva. "SCHOLIA-An XAI Framework for APR" In **6th International Workshop on Automated Program Repair, ICSE , 2025**.
+
+* **Sandareka Wickramanayake**, Wynne Hsu, Mong Li Lee. "Towards Fully Interpretable Deep Neural Networks: Are We There Yet?" In **Explainable Artificial Intelligence Workshop - ICML, 2021**.
+
+### Preprints
+* L Akmeemana, C Attanayake, H Faiz, **S Wickramanayake**, “GAL-MAD: Towards Explainable Anomaly Detection in Microservice Applications Using Graph Attention Networks”. arXiv preprint arXiv:2504.00058, 2025.
+
+* **Sandareka Wickramanayake**, H.M. Bandara, N.A. Samarasekara, “Real-Time Monitoring and Driver Feedback to Promote Fuel Efficient Driving”, arXiv preprint arXiv:2007.02728. 2020.
+
+
 
